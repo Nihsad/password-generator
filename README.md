@@ -8,3 +8,6 @@ The program will then generate a password that fits the criteria.
 
 ## Live Website and Preview
 
+[Link to Live Application](https://nihsad.github.io/password-generator/)
+
+![An animated .gif showing the function of the application](assets/password-generator-showcase.gif)
